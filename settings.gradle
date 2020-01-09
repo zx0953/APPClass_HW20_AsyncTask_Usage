@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='APPClass_HW20_AsyncTask_Usage'
